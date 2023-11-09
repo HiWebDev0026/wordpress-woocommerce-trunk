@@ -1,2 +1,2 @@
 # HiCMSDev
-This includes CMS project such as LP, E-commerce project and etc.
+This repository includes CMS project such as LP, E-commerce project and etc.
